@@ -17,4 +17,4 @@ end
 suffix = Time.current.strftime("%Y%m%dT%H%M%S")
 base_image.write("app/assets/images/outpot_#{suffix}.png")
 
-puts "open app/assets/images/outpot_#{suffix}.png"
+puts "open app/assets/images/output_#{suffix}.png"
