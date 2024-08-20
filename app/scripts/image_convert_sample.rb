@@ -22,8 +22,6 @@ draw.annotate(base_image, 15, 0, 40, 120, title2) do |options|
   options.font_family = 'Helvetica'
   #options.fill = 'white'
   #options.stroke = 'transparent'
-  options.font = 'app/assets/fonts/NotoSansJP-Bold.otf'
-  options.pointsize = 32
   #options.font_weight = Magick::BoldWeight
   #options.gravity = Magick::NorthGravity
   #options.gravity   = Magick::CenterGravity 
